@@ -144,6 +144,7 @@ function App() {
           </main>
         </div>
       </div>
+      <div className=''>© 2025 Zeynep Üstündağ —All Rights Reserved</div>
     </div>
   );
 }
