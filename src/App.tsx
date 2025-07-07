@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { ProductGrid } from './components/ProductGrid';
-import { FilterSidebar } from './components/FilterSideBar';
+import { FilterSidebar } from './components/FilterSidebar';
 import { Header } from './components/Header';
 import { LoadingSpinner } from './components/LoadingSpinner';
 import { ErrorMessage } from './components/ErrorMessage';
